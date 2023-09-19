@@ -19,11 +19,11 @@ Use my Root public key.
 If you encrypt something with my monthly keys, it will likely be ignored.
 
 ## Root Key
-[https://bytz.zip/pgp/bytz.pgp](./bytz.pgp)
+[./bytz.pgp](https://bytz.zip/pgp/bytz.pgp)
 
 This is my Root public key. This key should almost never be used for signing anything.
 
 ## Monthly Keys
-**19/09/2023 - 19/10/2023**]
+**19/09/2023 - 19/10/2023**
 
-[https://bytz.zip/zip/bytz-19-10-2023.pgp](./bytz-19-10-2023.pgp)
+[./bytz-19-10-2023.pgp](https://bytz.zip/pgp/bytz-19-10-2023.pgp)
